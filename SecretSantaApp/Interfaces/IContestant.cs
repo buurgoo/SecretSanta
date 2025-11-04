@@ -1,4 +1,4 @@
-﻿namespace SecretSantaApp
+﻿namespace SecretSantaApp.Interfaces
 {
     public interface IContestant 
     {
